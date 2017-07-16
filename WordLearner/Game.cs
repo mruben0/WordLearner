@@ -28,6 +28,8 @@ namespace WordLearner
 
             trCount.Text = r.ToString();
             flCount.Text = w.ToString();
+
+
         }
 
         public DictManager D = new DictManager(Form1.Path);

@@ -74,8 +74,9 @@ namespace WordLearner
 
             GC.Collect();
             GC.WaitForPendingFinalizers();
-            xlWorkbook.Close();
+            xlWorkbook.Close(0);
             excelApp.Quit();
+            
 
         }
     }
