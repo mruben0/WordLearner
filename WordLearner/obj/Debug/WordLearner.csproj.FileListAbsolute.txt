@@ -1,0 +1,10 @@
+C:\Users\mrube\Downloads\c#examples\WordLearner\WordLearner\obj\Debug\WordLearner.csprojResolveAssemblyReference.cache
+C:\Users\mrube\Downloads\c#examples\WordLearner\WordLearner\obj\Debug\WordLearner.Properties.Resources.resources
+C:\Users\mrube\Downloads\c#examples\WordLearner\WordLearner\obj\Debug\WordLearner.csproj.GenerateResource.Cache
+C:\Users\mrube\Downloads\c#examples\WordLearner\WordLearner\bin\Debug\WordLearner.exe.config
+C:\Users\mrube\Downloads\c#examples\WordLearner\WordLearner\bin\Debug\WordLearner.exe
+C:\Users\mrube\Downloads\c#examples\WordLearner\WordLearner\bin\Debug\WordLearner.pdb
+C:\Users\mrube\Downloads\c#examples\WordLearner\WordLearner\obj\Debug\WordLearner.exe
+C:\Users\mrube\Downloads\c#examples\WordLearner\WordLearner\obj\Debug\WordLearner.pdb
+C:\Users\mrube\Downloads\c#examples\WordLearner\WordLearner\obj\Debug\WordLearner.Game.resources
+C:\Users\mrube\Downloads\c#examples\WordLearner\WordLearner\obj\Debug\WordLearner.Form1.resources
